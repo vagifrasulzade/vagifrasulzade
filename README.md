@@ -17,7 +17,7 @@ I enjoy working on API design, database architecture, and system optimization wh
 
 - 💬 Ask me about **- C# - ASP.NET Core - Python - Django - Java - REST APIs - SQL**
 
-- 📫 How to reach me **- vaqufresulzade@gmail.com - LinkedIn: https://linkedin.com/in/vagifrasulzade**
+- 📫 How to reach me **- vaqufresulzade@gmail.com**
 
 - ⚡ Fun fact **- I enjoy turning ideas into clean, scalable backend applications.**
 
